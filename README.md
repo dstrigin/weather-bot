@@ -1,5 +1,6 @@
 Simple Telegram bot that tells you weather in Rostov-on-Don right now.
 --------
+t.me/get_current_weatherbot
 
 **Instruments used**:
 - github.com/mymmrac/telego
